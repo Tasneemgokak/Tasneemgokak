@@ -9,7 +9,7 @@
   <img align="center" alt="Girl Coding" width="200" height="auto" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2FnM2tyd2QxNnMwaThkbmYya2U3NDd0M3Uyajc4NTN3Z2hsdmhpOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cst5AXzPxRLyIwMNsV/giphy.webp" />
 </p>
 
-<p align="center">Currently learning - Web Deevelopment</p>
+<p align="center">Currently learning - Web Development</p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -18,7 +18,7 @@
 </p>
 
 - ⚡ Fun fact: Most of my best ideas come to me at 3 AM!
-- 🌱 I’m currently learning **Data Analytics | Machine Learning | Python | Data Modeling | Data Visualization | Data Structures | AI Projects
+- 🌱 I’m currently learning ** PHP | Python | Web  | Data Structures | AI Projects
 - 📫 How to reach me **tasneemgokak58@gmail.com**
 
 
