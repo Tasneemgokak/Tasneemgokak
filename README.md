@@ -18,11 +18,13 @@
 ---
 
 ## 🛠️ Technical Skills
-<p>
-  <img src="https://img.shields.io/badge/C-Learning-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Java-Learning-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SQL-Beginner-success?style=for-the-badge"/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" title="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" title="SQL / MySQL"/>
 </p>
+
 
 ---
 
