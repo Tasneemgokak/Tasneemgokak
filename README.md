@@ -51,25 +51,21 @@
 
 ## 🔗 Connect With Me
 <p>
-  <a href=https://www.linkedin.com/in/tasneemgokak/ target="_blank">
-  <img src="https://img.icons8.com/color/48/linkedin.png"/>
-
+  <a href="https://www.linkedin.com/in/tasneemgokak/" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:tasneemgokak58@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="42"/>
+  </a>
 </p>
 
-- 📧 Email: **tasneemgokak58@gmail.com**
+📧 <a href="mailto:tasneemgokak58@gmail.com">tasneemgokak58@gmail.com</a>
+
+
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tasneemgokak&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tasneemgokak&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 <p align="center">
 ✨ “Starting small, thinking big, and building with purpose.” ✨
