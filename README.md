@@ -51,8 +51,8 @@
 
 ## 🔗 Connect With Me
 <p>
-  <a href="https://www.linkedin.com/in/Tasneem Gokak" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  <a href=https://www.linkedin.com/in/tasneemgokak/ target="_blank">
+  <img src="https://img.icons8.com/color/48/linkedin.png"/>
 </a>
 
 </p>
