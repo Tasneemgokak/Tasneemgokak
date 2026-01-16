@@ -1,16 +1,19 @@
 <h1 align="center">Hi 👋, I'm Tasneem</h1>
-<h3 align="center">MCA Student | Software Engineering Enthusiast</h3>
 
 <p align="center">
-🧠 Learning fundamentals • 💻 Writing code • 🚀 Growing every day
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=MCA+Student;Future-Ready+Software+Engineer;Learning+Core+CS+%26+Clean+Code" />
+</p>
+
+<p align="center">
+🌱 Learning with purpose • 💻 Building fundamentals • 🚀 Growing step by step
 </p>
 
 ---
 
 ## 👩‍🎓 About Me
-- 🎓 MCA student (1st Semester) building a strong base in core computer science concepts  
-- 💡 Actively preparing for a **Software Engineering** career  
-- 🔍 Focused on understanding *how software works*, not just writing code  
+- 🎓 MCA student building a solid foundation in core computer science  
+- 💡 Strong interest in **Software Engineering roles**  
+- 🧠 Focused on understanding systems, logic, and problem-solving deeply  
 
 ---
 
@@ -23,24 +26,35 @@
 
 ---
 
-## 📚 Core Subjects
+## 📚 Core Computer Science
 - 🖥️ Operating Systems  
 - 🗄️ Database Management Systems (DBMS)  
-- 🧮 Data Structures & Algorithms (DSA)  
+- ⚙️ Software Engineering Fundamentals  
 
 ---
 
-## 🌱 Currently Focusing On
-- 🧠 Strengthening **DSA for logical thinking & problem solving**  
-- 🌐 Learning **Web Development fundamentals**  
-- ⚙️ Applying core CS concepts to real-world software scenarios  
+## 🌱 Currently Learning & Exploring
+- 🧮 **Data Structures & Algorithms (DSA)** — *just getting started*  
+- 🌐 **Web Development fundamentals**  
+- 🧠 Applying theory to practical coding problems  
 
 ---
 
-## ✨ My Learning Mindset
-- 🔹 Fundamentals over shortcuts  
-- 🔹 Consistency over speed  
-- 🔹 Learning by doing  
+## ✨ My Approach to Learning
+- 🔹 Strong fundamentals before frameworks  
+- 🔹 Consistent daily improvement  
+- 🔹 Learning by practice, not memorization  
+
+---
+
+## 🔗 Connect With Me
+<p>
+  <a href="https://www.linkedin.com/in/Tasneem Gokak" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
+
+📧 Email: **tasneemgokak58@gmail.com**
 
 ---
 
@@ -55,12 +69,6 @@
 
 ---
 
-## 📫 Connect With Me
-- 📧 Email: **tasneemgokak58@gmail.com**
-
----
-
 <p align="center">
-✨ “Learning today to build better software tomorrow.” ✨
+✨ “Starting small, thinking big, and building with purpose.” ✨
 </p>
-
