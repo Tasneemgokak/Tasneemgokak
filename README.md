@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Tasneem</h1>
+<h1 align="center">Hi 👋, I'm Tasneem Gokak</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=MCA+Student;Future-Ready+Software+Engineer;Learning+Core+CS+%26+Clean+Code" />
 </p>
 
 <p align="center">
-🌱 Learning with purpose • 💻 Building fundamentals • 🚀 Growing step by step
+🌷 Learning with purpose • 💻 Building fundamentals • 🚀 Growing step by step
 </p>
 
 ---
@@ -60,6 +60,16 @@
 
 ---
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tasneemgokak&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tasneemgokak&layout=compact&theme=tokyonight" />
+</p>
+
+---
 
 <p align="center">
 ✨ “Starting small, thinking big, and building with purpose.” ✨
