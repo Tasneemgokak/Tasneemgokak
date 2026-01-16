@@ -52,8 +52,9 @@
 ## 🔗 Connect With Me
 <p>
   <a href="https://www.linkedin.com/in/Tasneem Gokak" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
 </p>
 
 📧 Email: **tasneemgokak58@gmail.com**
@@ -62,11 +63,11 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tasneem_Gokak&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tasneemgokak&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tasneem_Gokak&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tasneemgokak&layout=compact&theme=tokyonight" />
 </p>
 
 ---
