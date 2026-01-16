@@ -54,9 +54,8 @@
   <a href=https://www.linkedin.com/in/tasneemgokak/ target="_blank">
   <img src="https://img.icons8.com/color/48/linkedin.png"/>
 </a>
-<a href="mailto:tasneemgokak58@gmail.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/>
-</a>
+📧 <a href="mailto:tasneemgokak58@gmail.com">tasneemgokak58@gmail.com</a>
+
 
 
 </p>
